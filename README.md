@@ -61,7 +61,7 @@ To install, add the following to your project `:dependencies`
   (if (result/ok? result-or-a-value)
     (do-something-when-ok (result/value result))
     (do-something-when-fail (result/error result))))
-``**
+```
 
 ### Threads the expr through the forms until fail
 
