@@ -6,4 +6,6 @@
 
   :profiles {:dev {:dependencies [[eftest "0.5.2"]]
                    :plugins [[lein-eftest "0.5.2"]]}}
+
+  :deploy-repositories {"releases" :clojars}
   )

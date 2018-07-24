@@ -1,6 +1,9 @@
 # result-clj
 
 [![Build Status](https://travis-ci.org/0x636363/result-clj.svg?branch=master)](https://travis-ci.org/0x636363/result-clj)
+[![Coverage Status](https://coveralls.io/repos/github/0x636363/result-clj/badge.svg)](https://coveralls.io/github/0x636363/result-clj)
+[![Clojars](https://img.shields.io/clojars/v/result-clj.svg?maxAge=3600)](https://clojars.org/result-clj)
+[![License](https://img.shields.io/github/license/0x636363/result-clj.svg?maxAge=3600)]()
 
 A Clojure library for introducing **Result**, which supports returning and propagating errors.
 
