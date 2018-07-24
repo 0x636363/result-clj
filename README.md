@@ -1,5 +1,7 @@
 # result-clj
 
+[![Build Status](https://travis-ci.org/0x636363/result-clj.svg?branch=master)](https://travis-ci.org/0x636363/result-clj)
+
 A Clojure library for introducing **Result**, which supports returning and propagating errors.
 
 ## Installation
