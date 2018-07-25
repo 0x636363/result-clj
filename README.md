@@ -12,7 +12,7 @@ A Clojure library for introducing **Result**, which supports returning and propa
 To install, add the following to your project `:dependencies`
 
 ```clojure
-[eftest "0.5.2"]
+[result-clj "0.1.0-SNAPSHOT"]
 ```
 
 ## Usage
